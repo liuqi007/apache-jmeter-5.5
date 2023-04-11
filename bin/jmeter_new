@@ -196,4 +196,4 @@ else
     ARGS=""
 fi
 
-"$JAVA_HOME/bin/java" $ARGS $JVM_ARGS $JMETER_OPTS -jar "$PRGDIR/ApacheJmeterNew-1.0.jar" "$@"
+"$JAVA_HOME/bin/java" $ARGS $JVM_ARGS $JMETER_OPTS -jar "$PRGDIR/NewJmeter.jar" "$@"
